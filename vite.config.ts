@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
     return {
-        base: '/ralf/', // 👈 Genau so! Nur der Name des Repositories mit Slashes davor und dahinter.
+        base: '/Ralf-Arbeitszeit/', // 👈 Genau so! Nur der Name des Repositories mit Slashes davor und dahinter.
         plugins: [react(), tailwindcss()],
         resolve: {
             alias: {
