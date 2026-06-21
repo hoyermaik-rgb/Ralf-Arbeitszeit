@@ -1,0 +1,6 @@
+{
+  "name": "Arbeitszeit & Urlaubsplaner",
+  "description": "Premium Zeiterfassung mit Urlaubsverwaltung, Fahrtenbuch, Gehaltsrechner (Steuerklasse 1, IKK BB) und PDF-Arbeitsnachweis mit digitaler Unterschrift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
